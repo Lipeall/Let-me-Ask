@@ -41,7 +41,7 @@
 
 <h2> Autor </h2>
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/filipe-almeida-amaral/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63127594?s=400&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Filipe Almeida</b></sub></a> <a href="https://www.linkedin.com/in/filipe-almeida-amaral/"></a>
